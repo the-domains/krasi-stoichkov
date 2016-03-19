@@ -1,12 +1,26 @@
-layout_spectrum: 0.6845878
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.2724014
 color:
   saturation: 0.5215054
   brandStrength: 1
   lightness: 0.5107527
   brandColors:
-    - '#000000'
-    - '#CFCFCF'
-    - '#4B4B4B'
+    - '#FFFFFF'
+    - '#4B4139'
+    - '#FFF000'
+    - '#FF774B'
+    - '#9AD7AB'
   rhythmicContrast: 0.5519713
+layout_spectrum: 0.6845878
 name: Krasi Stoichkov
